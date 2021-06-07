@@ -1,0 +1,121 @@
+﻿<Window x:Name="Window" x:Class="WpfTelegramBot.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfTelegramBot"
+        mc:Ignorable="d"
+        Title="TelegramBot" 
+        Height="770" 
+        Width="800" 
+        ResizeMode="CanResize" 
+        WindowStartupLocation="CenterScreen" 
+        Icon="/Resources/bot_avatar.bmp" 
+        SizeChanged="Window_SizeChanged">
+    <Grid x:Name="WindowGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="450"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="210"/>
+            <RowDefinition Height="170"/>
+            <RowDefinition Height="350"/>
+        </Grid.RowDefinitions>
+
+        <GroupBox Header="Сообщения от клиента" 
+                  Grid.RowSpan="3"
+                  Grid.Column="0"
+                  FontSize="16"
+                  Margin="5,5,5,5">
+            <ListBox x:Name="LogList"
+                     Grid.Column="0"
+                     Grid.Row="0"
+                     Grid.RowSpan="3"
+                     Margin="5,5,5,5" Grid.ColumnSpan="3">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderBrush="Black" Margin="5" 
+                            BorderThickness="1" 
+                            CornerRadius="5">
+                            <StackPanel Margin="10">
+                                <TextBlock Text="{Binding Path=Time}" 
+                                       Margin="0" 
+                                       FontSize="15"/>
+                                <TextBlock Text="{Binding Path=Id}" 
+                                       Margin="0" 
+                                       FontSize="20"/>
+                                <TextBlock Text="{Binding Path=Msg}" 
+                                       Margin="10 0" 
+                                       FontSize="10" 
+                                       Foreground="Gray" 
+                                       TextAlignment="Right"/>
+                                <TextBlock Text="{Binding Path=FirstName}" 
+                                       Margin="10 0" 
+                                       FontSize="10" 
+                                       Foreground="Gray" 
+                                       TextAlignment="Right"/>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </GroupBox>
+
+        <GroupBox Grid.Row="0"
+                  Grid.Column="1"
+                  FontSize="16"
+                  Header="Отправка сообщения" 
+                  Margin="5,5,5,5">
+                <StackPanel>
+                    <TextBlock x:Name="IdTextBox"
+                           Text="{Binding ElementName=LogList, 
+                                  Path=SelectedItem.Id}"
+                           Visibility="Visible"
+                           FontSize="16"
+                           Margin="5"/>
+                    <TextBox x:Name="MessageTextBox" 
+                         FontSize="16" 
+                         Margin="5"/>
+                    <Button FontSize="16" 
+                        Content="Отправить сообщение" 
+                        Margin="5" 
+                        Click="SendMessageButton_Click"/>
+                    <Button FontSize="16" 
+                        Content="Сохранить историю сообщений" 
+                        Margin="5" 
+                        Click="SaveLogButton_Click"/>
+                <Button FontSize="16" Content="Просмотр списка отправленных файлов" Margin="5" Click="FilesListButton_Click"/>
+                </StackPanel>
+            </GroupBox>
+        
+        <GroupBox Grid.Column="1"
+                  Grid.Row="1"
+                  FontSize="16"
+                  Header="Погода" 
+                  Margin="5,5,5,5">
+            <Border BorderBrush="Black" 
+                    Margin="5" 
+                    BorderThickness="1" 
+                    CornerRadius="5">
+                <TextBlock x:Name="Wheather" 
+                           FontSize="16"
+                           Margin="5"/>
+            </Border>
+        </GroupBox>
+        
+        <GroupBox Grid.Column="1" Background="White"
+                  Grid.Row="2"
+                  FontSize="16"
+                  Header="Курс Bitcoin (RUB)" 
+                  Margin="5,5,5,5">
+            <Canvas x:Name="textCanvas" 
+                    Margin="2" 
+                    ClipToBounds="True">
+                <Canvas x:Name="chartCanvas" 
+                        Margin="0" ClipToBounds="True" 
+                        Width="360" Height="280"/>
+            </Canvas>
+        </GroupBox>
+    </Grid>
+</Window>

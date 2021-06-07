@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Khx3DmjdVQhvyCUu00/PfGgzAw9P84z0fSDBVdM7ZtGovVbLO+p0R20JIAADgU8szRIGa3q78xSlcTjyhSg0Bg==",
+  "success": true,
+  "projectFilePath": "D:\\Учеба\\Курс C#\\Мои ответы\\10\\WpfTelegramBot\\WpfTelegramBot\\WpfTelegramBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

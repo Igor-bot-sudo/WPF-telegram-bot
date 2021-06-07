@@ -1,0 +1,43 @@
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\WpfTelegramBot.exe
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\WpfTelegramBot.deps.json
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\WpfTelegramBot.runtimeconfig.json
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\WpfTelegramBot.runtimeconfig.dev.json
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\WpfTelegramBot.dll
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\WpfTelegramBot.pdb
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.csprojAssemblyReference.cache
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot_MarkupCompile.cache
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot_MarkupCompile.lref
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.g.resources
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.AssemblyInfoInputs.cache
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.AssemblyInfo.cs
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.dll
+C:\Users\Игорь\RiderProjects\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.pdb
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\WpfTelegramBot.exe
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\WpfTelegramBot.deps.json
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\WpfTelegramBot.runtimeconfig.json
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\WpfTelegramBot.runtimeconfig.dev.json
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\WpfTelegramBot.dll
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\WpfTelegramBot.pdb
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\Telegram.Bot.dll
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\Newtonsoft.Json.xml
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\bin\Debug\netcoreapp3.0\Telegram.Bot.xml
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\App.g.cs
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot_MarkupCompile.cache
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot_MarkupCompile.lref
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.g.resources
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.AssemblyInfoInputs.cache
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.AssemblyInfo.cs
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.csproj.CopyComplete
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.dll
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.pdb
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.csproj.AssemblyReference.cache
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.csproj.CoreCompileInputs.cache
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\WpfTelegramBot.genruntimeconfig.cache
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\FilesListWindow.g.cs
+D:\Учеба\Курс C#\Мои ответы\10\WpfTelegramBot\WpfTelegramBot\obj\Debug\netcoreapp3.0\FilesListWindow.baml
